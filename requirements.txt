@@ -1,0 +1,4 @@
+   demucs
+   streamlit
+   torch
+   torchaudio
